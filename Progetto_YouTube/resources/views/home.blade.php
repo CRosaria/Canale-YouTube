@@ -14,7 +14,7 @@
   
 
     <h1 >Questo è il mio disastro 😊</h1>
-    <p>Welcome, se sei arrito qui forse cerchi aiuto!</p>
+    <p>Welcome, se sei arrivato qui forse cerchi aiuto!</p>
     <h3 class="my-5">Visita la nostra pagina YouTube</h3>
     <p>Se desideri un tutorial specifico esprimi un...</p>
     <p id="Test"><a class="nav-link"  href="{{ url('/contact')}}">Desiderio😊</a></p>
